@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/../DDT-homework" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../DesignPatterns-factory" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../DesignPatterns-homework" vcs="Git" />
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../Rest-Assured-Homework" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../mooc-software-testing" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../selenide-final-project" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../selenium-final-project" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../selenium-homework" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../selenium-homework1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../testng-homework" vcs="Git" />
   </component>
 </project>
