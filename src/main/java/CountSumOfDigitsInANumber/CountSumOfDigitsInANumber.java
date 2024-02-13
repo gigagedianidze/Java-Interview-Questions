@@ -14,8 +14,5 @@ public class CountSumOfDigitsInANumber {
 
         System.out.println("Sum of the digits in number is " + sum );
     }
-<<<<<<< HEAD
+
 }
-=======
-}
->>>>>>> 15c8cf7 (Updated up to 11)
